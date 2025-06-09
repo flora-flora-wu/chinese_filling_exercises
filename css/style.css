@@ -1,0 +1,4 @@
+body { font-family: sans-serif; line-height: 1.6; padding: 20px; background-color: #fdfdfd; }
+input[type="text"] { width: 200px; padding: 5px; }
+button { padding: 6px 12px; margin-top: 10px; }
+#result { margin-top: 20px; background-color: #f0f8ff; padding: 15px; }
